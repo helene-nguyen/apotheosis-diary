@@ -1,6 +1,7 @@
 # Jour 0 : Organisation
 
 ---
+
 ## Les fondations
 
 De cette étape va naître les fondations du projet, qui va devoir être approuvé par toutes les parties impliquées dans la réalisation de celle-ci.
@@ -9,62 +10,70 @@ Ses fondations à pour objectif d'éviter tout futurs malentendus en cadrant, cl
 Plusieurs **outils, supports** on été proposés lors des échanges au sein de l'équipe pour la conception du projet :
 
 ### Espace collaboratif / échanges
+
 - [Miro](https://miro.com/fr/)
 - [Discord](https://discord.com/)
 
 ### Aspect design / wireframe
+
 - [Figma](https://www.figma.com/)
 - [Adobe](https://www.adobe.com/fr/)
 
 ### Journal de bord / Versionning
+
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
 
 ### Planning de check up
--  Mise en place d'un Kanban Front & Back
--  Check up 20 min - plan d'action de la journée Front et Back - 9h00
--  Check up 20 min - bilan de la journée / difficultés rencontrés - 18h00 (17h00)
+
+- Mise en place d'un Kanban Front & Back
+- Check up 20 min - plan d'action de la journée Front et Back - 9h00
+- Check up 20 min - bilan de la journée / difficultés rencontrés - 18h00 (17h00)
 
 ### Quelles seront les technologies utilisées ?
+
 - Front :
-    - React
-    - Redux
-    - SASS
-    - Webpack / create react app
-    - Tests avec Jest - Cypress
+  - React
+  - Redux
+  - SASS
+  - Webpack / create react app
+  - Tests avec Jest - Cypress
 
 - Back :
-    - NodeJS
-    - ExpressJS
-    - PostgreSQL
-    - Sqitch
-    - API RESTful
-    - Jest
+  - NodeJS
+  - ExpressJS
+  - PostgreSQL
+  - Sqitch
+  - API RESTful
+  - Jest
 
-- Documentation : 
-    - Swagger / JsDoc
+- Documentation :
+  - Swagger / JsDoc
 
-- Production : 
-    - Heroku
+- Production :
+  - Heroku
 
-### Les autres aspects :
+### Les autres aspects
 
 Recherches / veilles
-  - Design UI
-  - Design UX
-  - Sécurité
-  - Accessibilité
-  - RGPD
+
+- Design UI
+- Design UX
+- Sécurité
+- Accessibilité
+- RGPD
 
 ---
-## Elaboration des Proto-personas :
+
+## Elaboration des Proto-personas
 
 [Définition](https://medium.com/lacapsule/persona-et-proto-persona-dd391a1e6020)
 L’utilisation de persona se fera dans un processus d’innovation ou de conception d’un service, produit ou système.
-Un Persona c’est avant tout un concentré d’informations sur ce qui est ou sera votre cible. 
+Un Persona c’est avant tout un concentré d’informations sur ce qui est ou sera votre cible.
 Il permet de mieux appréhender la cible, de connaître ses émotions, ses attentes, ses frustrations, et ainsi pouvoir entrer en empathie avec lui.
 
 Pourquoi utiliser des personas / proto-personas ?
+
 - L'objectif de cette outil est de confronter le concepteur à l’utilisateur.
 - Permet la visualisation du chemin et l'utilisation du site par les différents profils
 
@@ -72,6 +81,7 @@ Voici les questions sur lesquelles l'équipe à du répondres, réfléchirs pour
 
 Définir les proto-personas (voir persona dyslexique)
 Mise en situation d'utilisateurs, d'utilisatrices
+
 - Pourquoi j’utiliserais cette application ?
 - Qu’est-ce qui me motiverait à utiliser cette application ?
 - Qu’est-ce qui me frustrerait à utiliser cette application ?
@@ -83,6 +93,7 @@ Mise en situation d'utilisateurs, d'utilisatrices
 ---
 
 ## Roadmap
+
 - Projet learn(err) : vision globale du projet
 - Proto-personas
 - User stories / Use case
@@ -91,16 +102,13 @@ Mise en situation d'utilisateurs, d'utilisatrices
 - Projection démarche back
 - Liste des routes à créer (Tableau endpoints)
 
-
-
-
 ## Vision du projet (en développement)
 
 Grande home, plusieurs sections  carroussel 5 derniers articles
 Carroussel avec les erreurs ?
 Moteur de recherche articles/erreur/tech/contenu
 Zone publi équipe rédac, zone erreur pour les users
-Section 
+Section
 
 Grandes parties :
 
