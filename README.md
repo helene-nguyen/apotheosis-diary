@@ -2,7 +2,7 @@
 
 ___
 
-# 🚀 Projet d'Apothéose Test
+# 🚀 Projet d'Apothéose
 
 ## Introduction
 
