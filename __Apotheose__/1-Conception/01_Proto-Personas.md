@@ -56,4 +56,6 @@ Description des personas, qui ils sont, ce qu'ils aiment, ce qui les caractéris
 
 ![description](../../Images/atelier3.gif)
 
+
 [Page suivante](./01_Proto-Personas.md) | [Accueil](../../README.md)
+
