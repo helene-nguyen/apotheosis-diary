@@ -55,3 +55,5 @@ Classement des éléments et tri pour la création des personas
 Description des personas, qui ils sont, ce qu'ils aiment, ce qui les caractérise.
 
 ![description](../../Images/atelier3.gif)
+
+[Page suivante](./01_Proto-Personas.md) | [Accueil](../../README.md)
