@@ -1,5 +1,8 @@
 # Proto-Personas
 
+- L'objectif de cette outil est de confronter le concepteur à l’utilisateur.
+- Permet la visualisation du chemin et l'utilisation du site par les différents profils
+
 ## 3 prototypes principaux
 
 ### Auteur
@@ -33,6 +36,7 @@ Bouche à oreille, moteurs de recherche
 Sur ordinateur pour pouvoir mettre des exemples imagées ou morceaux de codes
 
 ___
+
 ### Visiteur
 
 => Lecture & apprentissage
@@ -67,12 +71,12 @@ Bouche à oreille
 Tout supports
 
 ___
+
 ### Utilisateur
 
 => Recherche la solution à son erreur
 => Aider les autres par les réponses
 => Contacter l'auteur d'un article
-
 
 - Pourquoi j’utiliserais cette application ?
 
@@ -80,11 +84,11 @@ Lire les articles, rechercher les erreurs et trouver une solution à mon erreur,
 
 - Qu’est-ce qui me motiverait à utiliser cette application ?
 
-Quand j'ai des erreurs, faire de la veille, aider les personnes, 
+Quand j'ai des erreurs, faire de la veille, aider les personnes,
 
 - Qu’est-ce qui me frustrerait à utiliser cette application ?
 
-Manque de modération, délais de réponse trop longues, recherche d'erreurs non pertinente 
+Manque de modération, délais de réponse trop longues, recherche d'erreurs non pertinente
 
 - Qu’est-ce que je recherche dans cette application ?
 
@@ -103,6 +107,7 @@ Bouche à oreille
 Avec talent ! Mais sérieusement, ordinateur principalement
 
 ___
+
 ### Troller
 
 - Pourquoi j’utiliserais cette application ?
@@ -127,7 +132,7 @@ Tout ce qui est en lien avec la communauté
 
 - Comment est-ce que je découvrirais cette application ? (bouche à oreille ? via un collègue ? Profs d’une école ?)
 
-En surfant sur internet 
+En surfant sur internet
 
 - Comment j’utiliserais cette application ? (Où ? dans quel contexte ? Avec quel device ?)
 
