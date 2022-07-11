@@ -7,3 +7,5 @@
 - Chat interne (???)
 - Partage sur les réseaux sociaux
 - Badge
+- Suivi auteur
+- Role
