@@ -6,3 +6,4 @@
 - Accessibilité
 - Chat interne (?)
 - Partage sur les réseaux sociaux
+- Badge
