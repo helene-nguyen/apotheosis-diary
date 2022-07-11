@@ -1,5 +1,6 @@
 # Jour 0 : Organisation
 
+Date 08/07/2022
 ---
 
 ## Les fondations
@@ -97,6 +98,7 @@ Mise en situation d'utilisateurs, d'utilisatrices
 - Projet learn(err) : vision globale du projet
 - Proto-personas
 - User stories / Use case
+- Liste des fonctionnalités
 - Wireframe - MCD/MLD/MPD
 - Projection démarche front
 - Projection démarche back

@@ -1,139 +1,57 @@
-# Proto-Personas
+# Jour 1 : Proto-Personas
+
+Date : 11/07/2022
+___
 
 - L'objectif de cette outil est de confronter le concepteur à l’utilisateur.
 - Permet la visualisation du chemin et l'utilisation du site par les différents profils
 
-## 3 prototypes principaux
+___
 
-### Auteur
+## Questionnements de l'utilisateur
 
 - Pourquoi j’utiliserais cette application ?
-
-Le but premier est le partage et l'entraide par le biais de la rédaction des articles et apporter des solutions simples en créant un répertoire d'erreurs que l'on peut rencontrer lors du développement d'une application.
-
 - Qu’est-ce qui me motiverait à utiliser cette application ?
-
-Faciliter l'accès à l'information tech, créer une communauté disposant d'une volonté d'aider les autres et tenir au courant de l'évolution dans le monde l'informatique
-
 - Qu’est-ce qui me frustrerait à utiliser cette application ?
-
-Que personne ne l'utilise
-
 - Qu’est-ce que je recherche dans cette application ?
-
-Satisfation personnelle si elle remplit son objectif premier qui est l'entraide
-
 - Quelle est LA fonctionnalité qui est faite pour moi dans cette application ?
-
-La rédaction d'articles
-
 - Comment est-ce que je découvrirais cette application ? (bouche à oreille ? via un collègue ? Profs d’une école ?)
-
-Bouche à oreille, moteurs de recherche
-
 - Comment j’utiliserais cette application ? (Où ? dans quel contexte ? Avec quel device ?)
-
-Sur ordinateur pour pouvoir mettre des exemples imagées ou morceaux de codes
 
 ___
 
-### Visiteur
+## Atelier de groupe
 
-=> Lecture & apprentissage
-=> Veille (être au courant des nouveautés)
+### Objectifs
 
-- Pourquoi j’utiliserais cette application ?
+- Créer des personas qui représentent la manière dont on imagine nos futures utilisateurs
 
-Pour lire les articles
+- Ces personas nous accompagneront tout au long du projet afin de mieux répondre à leurs besoins.
 
-- Qu’est-ce qui me motiverait à utiliser cette application ?
+- Les personas sont un outil qui aide à garder en tête les objectifs et la direction du projet.
 
-Approfondir mes connaissances et ^tre au courant des nouveautés
+### Programme
 
-- Qu’est-ce qui me frustrerait à utiliser cette application ?
+- Session brainstorming autour de quelques questions
 
-Ne pas comprendre ce que je lis, ni l'intitulé, ne rien comprendre à la navigation, si l'article est trop long, s'il y a trop de texte, pas confortable à la lecture
+- Regrouper les post-its qui se ressemblent pour créer les personas
 
-- Qu’est-ce que je recherche dans cette application ?
-
-Apprendre avec simplicité
-
-- Quelle est LA fonctionnalité qui est faite pour moi dans cette application ?
-
-L'ergonomie du site et le visuel du site
-
-- Comment est-ce que je découvrirais cette application ? (bouche à oreille ? via un collègue ? Profs d’une école ?)
-
-Bouche à oreille
-
-- Comment j’utiliserais cette application ? (Où ? dans quel contexte ? Avec quel device ?)
-
-Tout supports
+- Faire le storytelling des personas
 
 ___
 
-### Utilisateur
+### 1.  <u>Session brainstorming</u>
 
-=> Recherche la solution à son erreur
-=> Aider les autres par les réponses
-=> Contacter l'auteur d'un article
+![brainstorming](../../images/atelier1.gif)
 
-- Pourquoi j’utiliserais cette application ?
+### 2. <u>Création des personas</u>
 
-Lire les articles, rechercher les erreurs et trouver une solution à mon erreur, m'inscrire pour proposer une solution à une erreur qui n'est pas répertoriée
+Classement des éléments et tri pour la création des personas
 
-- Qu’est-ce qui me motiverait à utiliser cette application ?
+![création personas](../../Images/atelier2.gif)
 
-Quand j'ai des erreurs, faire de la veille, aider les personnes,
+### 3. <u>Storytelling</u>
 
-- Qu’est-ce qui me frustrerait à utiliser cette application ?
+Description des personas, qui ils sont, ce qu'ils aiment, ce qui les caractérise.
 
-Manque de modération, délais de réponse trop longues, recherche d'erreurs non pertinente
-
-- Qu’est-ce que je recherche dans cette application ?
-
-Etre conseillé et guidé
-
-- Quelle est LA fonctionnalité qui est faite pour moi dans cette application ?
-
-La recherche d'erreur et la communauté
-
-- Comment est-ce que je découvrirais cette application ? (bouche à oreille ? via un collègue ? Profs d’une école ?)
-
-Bouche à oreille
-
-- Comment j’utiliserais cette application ? (Où ? dans quel contexte ? Avec quel device ?)
-
-Avec talent ! Mais sérieusement, ordinateur principalement
-
-___
-
-### Troller
-
-- Pourquoi j’utiliserais cette application ?
-
-Faire passer le temps
-
-- Qu’est-ce qui me motiverait à utiliser cette application ?
-
-Piéger les autres et donner les fausses informations
-
-- Qu’est-ce qui me frustrerait à utiliser cette application ?
-
-Qu'on me banne rapidement et toutes les sécurités prévues par le site
-
-- Qu’est-ce que je recherche dans cette application ?
-
-La détruire et la détourner, usurper les identités, rédiger de faux articles
-
-- Quelle est LA fonctionnalité qui est faite pour moi dans cette application ?
-
-Tout ce qui est en lien avec la communauté
-
-- Comment est-ce que je découvrirais cette application ? (bouche à oreille ? via un collègue ? Profs d’une école ?)
-
-En surfant sur internet
-
-- Comment j’utiliserais cette application ? (Où ? dans quel contexte ? Avec quel device ?)
-
-Tout support, je suis un troll
+![description](../../Images/atelier3.gif)
