@@ -1,7 +1,5 @@
 # Fonctionnalités
 
-
-
 - Metrics
 - Votes
 - Plateforme d'apprentissage
