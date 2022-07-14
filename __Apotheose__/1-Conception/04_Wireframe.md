@@ -16,7 +16,7 @@ L'outil collaboratif que nous allons utiliser est :
 
 ## Moodboard
 
-![moodboard](../../images/mood.gif)
+![moodboard](../../Images/mood.gif)
 
 ## Wireframe
 
@@ -28,7 +28,7 @@ On démarre avec une base de composants que nous avons créé :
 
 Les composants que nous allons utiliser :
 
-![components](../../images/component.png)
+![components](../../Images/component.png)
 
 ### <u>Wireframe Desktop</u>
 
