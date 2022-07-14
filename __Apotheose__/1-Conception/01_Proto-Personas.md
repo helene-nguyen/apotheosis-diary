@@ -50,7 +50,7 @@ ___
 
 ### 1.  <u>Session brainstorming</u>
 
-![brainstorming](../../images/atelier1.gif)
+![brainstorming](../../Images/atelier1.gif)
 
 ### 2. <u>Création des personas</u>
 
