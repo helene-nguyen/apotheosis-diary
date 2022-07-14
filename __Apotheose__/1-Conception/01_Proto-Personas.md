@@ -71,17 +71,17 @@ On vous présente :
 Camille démarre sa formation chez O'Clock et est catégorisée comme novice.
 Elle tombera sur Learn(err) lors de ses recherches sur les moteurs de recherche ou par le biais d'une information reçue par l'un de ses formateurs ou camarade de classe.
 
-![camille](../../images/camille.jpg)
+![camille](../../Images/camille.jpg)
 ### Sofia
 
 Sofia, elle, a fini sa formation chez O'Clock et est catégorisée comme junior. Elle commence à connaître Learn(err) et sait l'utiliser pour ses recherches.
 
-![sofia](../../images/sofia.jpg)
+![sofia](../../Images/sofia.jpg)
 ### Jerome
 
 Jérôme par contre, a une bonne connaissance sur le développement web et les différentes techno et est catégorisé comme senior. Il fait partie de l'équipe, contribue au bon dynamisme du site et est toujours présent pour aider.
 
-![jerome](../../images/jerome.jpg)
+![jerome](../../Images/jerome.jpg)
 ___
 
 [Page précédente](./00_Organisation.md) | [Page suivante](./02_User_stories.md) | [Accueil](../../README.md)
