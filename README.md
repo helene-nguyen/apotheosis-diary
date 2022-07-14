@@ -37,3 +37,35 @@ L'aventure que nous avons déjà vécue au sein de l'école O'Clock nous a montr
 ### Start ▶
 
 On commence ? C'est par [là](./__Apotheose__/1-Conception/00_Organisation.md) !
+
+___
+
+- Sources diverses :
+
+[Générateur de visages pour la création des personas](https://generated.photos/face-generator/new)
+
+[Dribbble : inspiration graphique](https://dribbble.com/)
+
+[Pinterest : inspiration graphique](https://www.pinterest.fr/)
+
+[Mocodo](http://mocodo.wingi.net/)
+
+[Miro : board de travail](https://miro.com/)
+
+[Figma : board de travail collaboratif](https://www.figma.com/)
+
+[Outils pour la construction du wireframe](https://m3.material.io/)
+
+[Solution pour l'accessibilité](https://www.a11ymatters.com/pattern/mobile-nav/)
+
+[Conventions des commit](https://www.conventionalcommits.org/en/v1.0.0/)
+
+- Autres sources pour l'inspiration graphique :
+
+- https://www.behance.net/
+- https://www.pinterest.fr/
+- https://dribbble.com/
+- https://thefwa.com/
+- https://www.siteinspire.com/
+- https://www.designspiration.com/
+- https://www.cssdesignawards.com/

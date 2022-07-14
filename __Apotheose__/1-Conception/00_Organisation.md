@@ -1,6 +1,7 @@
 # Jour 0 : Organisation
 
 Date 08/07/2022
+
 ---
 
 ## Les fondations
@@ -30,6 +31,10 @@ Plusieurs **outils, supports** on été proposés lors des échanges au sein de 
 - Mise en place d'un Kanban Front & Back
 - Check up 20 min - plan d'action de la journée Front et Back - 9h00
 - Check up 20 min - bilan de la journée / difficultés rencontrés - 18h00 (17h00)
+
+### Mise en place d'un serveur privé
+
+![serveur](../../Images/salon.PNG)
 
 ### Quelles seront les technologies utilisées ?
 
@@ -129,3 +134,7 @@ Arriver à montrer le chemin pour l'utilisation de notre site
 Table error à remplir au fur et à mesure
 
 Page 404 personnalisée
+
+___
+
+[Page suivante](./01_Proto-Personas.md) | [Accueil](../../README.md)

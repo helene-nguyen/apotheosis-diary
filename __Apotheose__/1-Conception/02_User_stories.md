@@ -1,10 +1,20 @@
 # Users stories
 
+Date: 12/07/2022
+___
+
+Les User stories est une démarche qui permettra, en de simples descriptions, d'exprimer les besoins ou les attentes d'un utilisateur.
+
+Cela nous permettra de déterminer les fonctionnalités à développer.
+
+Nous avons 4 grandes catégories de personnes :
+
 - visiteur
 - utilisateur
 - auteur
 - admin
 
+Ci-dessous le détail de chaque catégorie :
 ___
 
 ## Visiteur
@@ -63,3 +73,7 @@ ___
 | admin | afficher les articles en attente de validation | valider ou supprimer les articles  |  |  |
 | admin | afficher les tickets en attente de validation | valider ou supprimer les tickets  |  |  |
 | admin | afficher la liste des utilisateurs | promouvoir ou désactiver un utilisateur |  |  |
+
+___
+
+[Page précédente](./01_Proto-Personas.md) | [Page suivante](./03_Fonctionnalites.md) | [Accueil](../../README.md)
