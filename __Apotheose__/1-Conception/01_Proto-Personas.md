@@ -28,7 +28,7 @@ ___
 
 Préparation de l'atelier
 
-![atelier](../../images/atelier.PNG)
+![atelier](../../Images/atelier.PNG)
 
 ### Objectifs
 
