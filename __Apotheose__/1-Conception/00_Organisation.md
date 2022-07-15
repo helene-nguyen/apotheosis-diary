@@ -34,7 +34,7 @@ Plusieurs **outils, supports** on été proposés lors des échanges au sein de 
 
 ### Mise en place d'un serveur privé
 
-![serveur](../../Images/salon.PNG)
+![serveur](../../Images/salon.png)
 
 ### Quelles seront les technologies utilisées ?
 
