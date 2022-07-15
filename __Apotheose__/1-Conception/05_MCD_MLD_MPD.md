@@ -32,7 +32,7 @@ ROLE: code_role, name
 
 A_OWNS, 0N ARTICLE, 11 ARTICLE_COMMENT
 :
-USER: code_user, username, email, password, status, title, presentation, linkedin_url, github_url, instagram_url, twitter_url, portfolio_url, created_at, updated_at
+USER: code_user, username, email, password, status, title, presentation, profile_pic_url linkedin_url, github_url, instagram_url, twitter_url, portfolio_url, created_at, updated_at
 E_COMMENTS, 0N USER, 11 ERROR_COMMENT
 BAD_WORD: code_bad_word, word
 

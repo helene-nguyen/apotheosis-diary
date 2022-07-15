@@ -15,6 +15,7 @@ ___
 |status| statut actif ou inactif|
 |title| métier, fonction ou spécialité de l'utilisateur|
 |presentation| biographie de l'utilisateur|
+|profile_pic_url| lien vers la photo de profil|
 |linkedin_url| lien vers le profil Linked In|
 |github_url| lien vers le profil Github|
 |instagram_url| lien vers le profil Instagram|

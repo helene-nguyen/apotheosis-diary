@@ -11,3 +11,23 @@ Les outils utilisés pour la réalisation des designs : [Adobe Illustrator](http
 ## Décomposition
 
 ![décompo](../../Images/design_system.jpg)
+
+## Home search
+
+![home search](../../Images/home-search.jpg)
+
+## Article card
+
+![article-card](../../Images/article-card.jpg)
+
+## Header desktop
+
+![header](../../Images/desktop-header.jpg)
+
+## Footer
+
+![Footer](../../Images/footer.jpg)
+
+## Background
+
+![article-card](../../Images/background.jpg)
