@@ -43,7 +43,9 @@ Plusieurs **outils, supports** on été proposés lors des échanges au sein de 
   - Redux
   - SASS
   - Webpack / create react app
-  - Tests avec Jest - Cypress
+  - Tests avec Jest - Cypress (- React Testing Library)
+  - Typescript
+  - (Storybook)
 
 - Back :
   - NodeJS
@@ -68,6 +70,10 @@ Recherches / veilles
 - Sécurité
 - Accessibilité
 - RGPD
+
+### Navigateurs visés
+
+Le site étant à destination d'un public tech, toutes les versions de Chrome, Edge, Firefox, Opera et Safari seront supportés.
 
 ---
 
