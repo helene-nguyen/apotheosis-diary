@@ -11,7 +11,8 @@
 - [API Endpoints](../__Apotheose__/1-Conception/06_Endpoints.md)
 - [Dictionnaire de données](../__Apotheose__/1-Conception/07_Dico_de_donnees.md)
 - [Design](../__Apotheose__/1-Conception/08_Design.md)
-- [Projection Front & Back](../__Apotheose__/1-Conception/09_Projection.md)
+- [Préparation des composants](../__Apotheose__/1-Conception/09_Preparation_composant.md)
+- [Projection Front & Back](../__Apotheose__/1-Conception/_Projection.md)
 
 ## Phase de développement
 

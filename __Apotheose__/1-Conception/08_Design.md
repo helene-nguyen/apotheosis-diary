@@ -22,4 +22,4 @@ ___
 
 ___
 
-[Page précédente](./07_Dico_de_donnees.md) | [Page suivante](./09_Projection.md) | [Accueil](../../README.md)
+[Page précédente](./07_Dico_de_donnees.md) | [Page suivante](./09_Preparation_composant.md) | [Accueil](../../README.md)
