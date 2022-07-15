@@ -6,7 +6,7 @@ ___
 
 ## /API/V1
 
-### User
+### <u>User</u>
 
 |Method| Route| Description| Returns |Page|
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ ___
 | GET | /users/:id/comments | Récupérer tous les commentaires d'un utilisateur |Tableau d'objets JSON | Dashboard admin |
 | GET | /users/top | Récupérer les top contributeurs | Tableau d'objets JSON | Home |
 
-## Articles
+## <u>Articles</u>
 
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ ___
 | GET | /users/:id/articles | Récupérer tous les articles d'un utilisateur | Tableau d'objets JSON | Profil auteur |
 | GET | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
 
-### Errors
+### <u>Errors</u>
 
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ ___
 | GET | /users/:id/errors | Récupérer tous les tickets d'erreur d'un utilisateur | Tableau d'objets JSON | Profil utilisateur
 | GET | /errors/last | Récupérer les derniers tickets d'erreur publiés | Tableau d'objets JSON | Home |
 
-### Article comments
+### <u>Article comments</u>
 
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
@@ -57,8 +57,7 @@ ___
 | PATCH | /articles/:id/comments | Mettre à jour un commentaire sur un article | String de confirmation | Page article |
 | DELETE | /articles/:id/comments | Suppression d'un commentaire sur un article | String de confirmation | Page article |
 
-
-### Error comments
+### <u>Error comments</u>
 
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
@@ -69,7 +68,7 @@ ___
 | GET | /users/:id/error_comments | Récupérer tous les réponses d'un utilisateur à des tickets d'erreur | Tableau d'objets JSON | Page profil |
 | PATCH | /errors/:id/comments/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
 
-### Categories
+### <u>Categories</u>
 
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
