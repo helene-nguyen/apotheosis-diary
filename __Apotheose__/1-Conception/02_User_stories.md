@@ -65,6 +65,15 @@ ___
 |---||||
 | auteur | bouton de validation de l'article | soumettre l'article aux administrateurs |  |  |
 | auteur | bouton d'enregistrement de l'article en brouillons | enregistrer le brouillon de l'article |  |  |
+|---|||||
+| auteur | formulaire de création de tickets d'erreurs | rédiger un ticket d'erreur |  |  |
+| auteur | bouton de suppression du ticket d'erreur  |supprimer un ticket d'erreur | | |  |
+| auteur | formulaire d'édition d'un ticket d'erreur | éditer un ticket d'erreur / éditer le brouillon |  |  |
+|---||||
+| auteur | afficher la page de mes tickets erreurs | consulter l'état de mes tickets et atteindre les pages d'édition de mes tickets |  |  |
+|---||||
+| auteur | bouton de validation de l'article | soumettre le ticket d'erreur |aux administrateurs |  |  |
+| auteur | bouton d'enregistrement du ticket en brouillons | enregistrer le brouillon du ticket d'erreur |  |  |
 
 ## Admin
 
@@ -73,6 +82,9 @@ ___
 | admin | afficher les articles en attente de validation | valider ou supprimer les articles  |  |  |
 | admin | afficher les tickets en attente de validation | valider ou supprimer les tickets  |  |  |
 | admin | afficher la liste des utilisateurs | promouvoir ou désactiver un utilisateur |  |  |
+| admin | un bouton de création de catégorie | création d'une catégorie |  |  |
+| admin | un bouton de suppression de catégorie| supprimer une catégorie |  |  |
+
 
 ___
 

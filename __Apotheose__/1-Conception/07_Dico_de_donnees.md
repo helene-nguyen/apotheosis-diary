@@ -61,4 +61,4 @@
 |||
 ___
 
-[Page précédente](./06_Projections.md) | [Page suivante](./08_Design.md) | [Accueil](../../README.md)
+[Page précédente](./06_Endpoints.md) | [Page suivante](./08_Design.md) | [Accueil](../../README.md)

@@ -59,6 +59,7 @@ Le projet tel que nous l'avons pensé dispose normalement de quelques fonctionna
 
 Ci-dessous la liste des possibilité de foncitonnalités futures :
 
+- Ajout une correspondance entre les tickets d'erreur et articles
 - Accessibilité
 - Suivi des réponses ou commentaires postées
 - Votes

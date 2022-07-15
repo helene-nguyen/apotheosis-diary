@@ -78,4 +78,4 @@ Ci-dessous le diagram (ERD => Entity-Relationship Diagram) qui a été modélis�
 
 ___
 
-[Page précédente](./04_Wireframe.md) | [Page suivante](./06_Projections.md) | [Accueil](../../README.md)
+[Page précédente](./04_Wireframe.md) | [Page suivante](./06_Endpoints.md) | [Accueil](../../README.md)
