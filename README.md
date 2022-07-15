@@ -36,7 +36,7 @@ L'aventure que nous avons déjà vécue au sein de l'école O'Clock nous a montr
 
 ### Start ▶
 
-On commence ? C'est par [là](./__Apotheose__/1-Conception/00_Organisation.md) !
+On commence ? C'est par [là](./__Apotheose__/Sommaire.md) !
 
 ___
 
