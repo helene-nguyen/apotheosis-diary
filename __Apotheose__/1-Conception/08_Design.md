@@ -20,6 +20,17 @@ ___
 
 ![Erreurs](../../Images/Page_erreurs.jpg)
 
+## Design version mobile
+
+### Home (short version)
+
+![home-mobile](../../Images/Mobile-Home.jpg)
+
+### Home (full version)
+
+![home-mobile](../../Images/Mobile-Home-full.jpg)
+
+
 ___
 
 [Page précédente](./07_Dico_de_donnees.md) | [Page suivante](./09_Preparation_composant.md) | [Accueil](../../README.md)
