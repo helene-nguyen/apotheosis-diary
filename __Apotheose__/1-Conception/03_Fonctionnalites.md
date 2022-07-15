@@ -41,6 +41,10 @@ Les fonctionnalités principales sont :
 
 - par le biais d'un bouton, se déconnecter
 
+- en cas de suppression d'un article, prévenir que les commentaires associés seront également supprimés
+
+- il aura la possibilité de contacter les administrateurs pour supprimer son compte et ses données
+
 <u>Pour un auteur</u> :
 
 - il possèdera un espace dédié afin de pouvoir créer un article ou un ticket d'erreur et de pouvoir le soumettre aux administrateurs

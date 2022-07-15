@@ -11,7 +11,7 @@ Afin de créer notre wireframe qui va nous aider à visualiser l'agencement de l
 
 ## Outil
 
-L'outil collaboratif que nous allons utiliser est : 
+L'outil collaboratif que nous allons utiliser est :
 [Figma](https://www.figma.com/)
 
 ## Moodboard
@@ -39,7 +39,6 @@ Travail sur le wireframe version Desktop
 Aperçu global :
 
 ![desktop](../../Images/wireframe.jpg)
-
 
 ### <u>Wireframe Mobile</u>
 
@@ -80,7 +79,6 @@ Dashboard
 Prévisualisation
 
 ![preview](../../Images/preview.jpg)
-
 
 Page 404
 

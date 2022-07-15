@@ -11,7 +11,7 @@ Avant de visualiser le contenu et la composition de nos tables en base de donné
 
 Un **MCD** est une représentation d'un système, il s'agit d'un schéma **conceptuel** qui permettra de comprendre ou de simuler un sujet représenté par un modèle.
 
-On va définir les différentes **associations** avec leurs **entités** selon la méthode [MERISE](https://fr.wikipedia.org/wiki/Merise_(informatique)) en définissant les différentes **cardinalités**. 
+On va définir les différentes **associations** avec leurs **entités** selon la méthode [MERISE](https://fr.wikipedia.org/wiki/Merise_(informatique)) en définissant les différentes **cardinalités**.
 
 La complexité ici est de définir les différentes entités et de se mettre en accord avec les idées mises en commun.
 
@@ -52,6 +52,7 @@ STATUS: code_status, name
 E_TAKES, 11 ERROR, 1N STATUS
 A_TAKES, 11 ARTICLE, 1N STATUS
 ```
+
 Ce qui nous donnera le résultat suivant :
 
 ![mcd](../../Images/MCD.jpg)
@@ -65,6 +66,7 @@ Les **entités** du MCD deviennent des **tables**, les **propriétés** devienne
 L'**identifiant** de l'entité devient également une **colonne** comme les autres mais simplement assortie d'une **contrainte d'unicité** (La clé primaire sera un id auto-généré par le [SGBD](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es))
 
 ![MLD](../../Images/MLD.jpg)
+
 ## Modèle Physique de données
 
 Le **MPD** permet de décrire la manière dont seront représentées nos données dans la base de données.
@@ -74,7 +76,6 @@ Celui-ci va représenter les **tables**, **colonnes** et **types** de données e
 Ci-dessous le diagram (ERD => Entity-Relationship Diagram) qui a été modélisé grâce à l'outil graphique [PgAdmin 4](https://www.pgadmin.org/) qui est un outil open-source pour Postgres.
 
 ![MPD](../../Images/MPD.jpg)
-
 
 ___
 
