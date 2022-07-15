@@ -31,3 +31,15 @@ Les outils utilisés pour la réalisation des designs : [Adobe Illustrator](http
 ## Background
 
 ![article-card](../../Images/background.jpg)
+
+## Buttons
+
+![buttons](../../Images/buttons.jpg)
+
+## Search bar title
+
+![searche-bar-titles](../../Images/search-bar-titles.jpg)
+
+## Titles
+
+![titles](../../Images/titles.jpg)
