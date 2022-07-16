@@ -18,7 +18,7 @@ ___
 | PATCH | /users/:id | Mise à jour des informations de profil | String de confirmation | Page profil de l'utilisateur|
 | DELETE | /users/:id | Désactivation d'un utilisateur | Objet JSON | Dashboard admin |
 | GET | /users/:id/comments | Récupérer tous les commentaires d'un utilisateur |Tableau d'objets JSON | Dashboard admin |
-| GET | /users/top | Récupérer les top contributeurs | Tableau d'objets JSON | Home |
+|POST|/refreshToken| Met à jour le token pour les autorisations| Objet JSON | Dashboard admin, utilisateur et auteur, page profil, page de creation de ticket d'erreur et d'article|
 
 ## <u>Articles</u>
 

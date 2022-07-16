@@ -37,7 +37,7 @@ ___
 | utilisateur | afficher sa page utilisateur | consulter et modifier le contenu |  |  |
 | utilisateur | afficher une page utilisateur | consulter le profil d'un autre utilisateur | option : suivre un utilisateur |  |
 |---||||
-| utilisateur | afficher un formulaire de création d'erreur | publier une erreur |  |  |
+| utilisateur | afficher un formulaire de création d'erreur | soumettre une erreur aux administrateurs |  |  |
 | utilisateur | un bouton d'édition sur l'erreur | éditer une erreur |  |  |
 | utilisateur | un bouton suppression de l'erreur | supprimer une erreur |  |  |
 |---||||
