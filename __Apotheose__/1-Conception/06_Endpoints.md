@@ -53,7 +53,7 @@ ___
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
 | GET | /articles/:id/comments | Récupérer tous les commentaires d'un article | Tableau d'objets JSON | Page article |
-| POST | /articles/:id/comments | Soumettre un commentaire sur un article | String de confirmation | Page article |
+| POST | /articles/:id/comments | Publier un commentaire sur un article | String de confirmation | Page article |
 | PATCH | /articles/:id/comments | Mettre à jour un commentaire sur un article | String de confirmation | Page article |
 | DELETE | /articles/:id/comments | Suppression d'un commentaire sur un article | String de confirmation | Page article |
 
@@ -62,7 +62,7 @@ ___
 |Method| Route| Description| Returns|Page|
 |---|---|---|---|---|
 | GET | /errors/:id/comments | Récupérer tous les commentaires d'un ticket d'erreur | Tableau d'objets JSON | Page ticket d'erreur
-| POST | /errors/:id/comments | Soumettre un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
+| POST | /errors/:id/comments | Publier un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | PATCH | /errors/:id/comments | Mettre à jour un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | DELETE | /errors/:id/comments | Suppression d'un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | GET | /users/:id/error_comments | Récupérer tous les réponses d'un utilisateur à des tickets d'erreur | Tableau d'objets JSON | Page profil |

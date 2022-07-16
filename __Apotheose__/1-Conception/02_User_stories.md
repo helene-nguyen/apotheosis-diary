@@ -72,7 +72,7 @@ ___
 |---||||
 | auteur | afficher la page de mes tickets erreurs | consulter l'état de mes tickets et atteindre les pages d'édition de mes tickets |  |  |
 |---||||
-| auteur | bouton de validation de l'article | soumettre le ticket d'erreur |aux administrateurs |  |  |
+| auteur | bouton de validation du ticket d'erreur | soumettre le ticket d'erreur |aux administrateurs |  |  |
 | auteur | bouton d'enregistrement du ticket en brouillons | enregistrer le brouillon du ticket d'erreur |  |  |
 
 ## Admin
