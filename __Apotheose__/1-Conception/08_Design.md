@@ -20,6 +20,19 @@ ___
 
 ![Erreurs](../../Images/Page_erreurs.jpg)
 
+___
+
+## Design page profil
+
+![profil](../../Images/profil.jpg)
+
+___
+
+## Design page dashboard
+
+![dashboard](../../Images/dashboard_1.jpg)
+___
+
 ## Design version mobile
 
 ### Home (short version)
@@ -29,7 +42,6 @@ ___
 ### Home (full version)
 
 ![home-mobile](../../Images/Mobile-Home-full.jpg)
-
 
 ___
 

@@ -1,6 +1,6 @@
 # Préparation des composants
 
-Date : 15/07/2022
+Date : 15/07/2022 - 18/07/2022
 
 ___
 
@@ -43,3 +43,7 @@ Les outils utilisés pour la réalisation des designs : [Adobe Illustrator](http
 ## Titles
 
 ![titles](../../Images/titles.jpg)
+
+___
+
+[Page précédente](./08_Design.md) | [Page suivante](./10_Pages.md) | [Accueil](../../README.md)

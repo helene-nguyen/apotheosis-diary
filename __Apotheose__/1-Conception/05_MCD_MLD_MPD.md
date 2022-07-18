@@ -45,7 +45,7 @@ ERROR_COMMENT: code_error_comment, content, created_at, updated_at
 A_CLASSIFIES, 1N ARTICLE, 0N CATEGORY
 CATEGORY: code_category, name
 E_CLASSIFIES, 1N ERROR, 0N CATEGORY
-ERROR: code_error, title, abstract, content, created_at, updated_at
+ERROR: code_error, title, abstract, content, error_snippet, created_at, updated_at
 E_OWNS, 0N ERROR, 11 ERROR_COMMENT
 
 STATUS: code_status, name
