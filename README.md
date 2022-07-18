@@ -40,7 +40,7 @@ On commence ? C'est par [là](./__Apotheose__/Sommaire.md) !
 
 ___
 
-- Sources diverses :
+### Sources diverses
 
 [Générateur de visages pour la création des personas](https://generated.photos/face-generator/new)
 
@@ -62,13 +62,12 @@ ___
 
 - Autres sources pour l'inspiration graphique :
 
-- https://www.behance.net/
-- https://www.pinterest.fr/
-- https://dribbble.com/
-- https://thefwa.com/
-- https://www.siteinspire.com/
-- https://www.designspiration.com/
-- https://www.cssdesignawards.com/
-
+- <https://www.behance.net/>
+- <https://www.pinterest.fr/>
+- <https://dribbble.com/>
+- <https://thefwa.com/>
+- <https://www.siteinspire.com/>
+- <https://www.designspiration.com/>
+- <https://www.cssdesignawards.com/>
 
 [Source aide MCD](https://grafikart.fr/tutoriels/sql-mcd-mld-1989)
