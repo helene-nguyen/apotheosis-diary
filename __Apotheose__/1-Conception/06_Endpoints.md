@@ -67,7 +67,7 @@ ___
 | PATCH | /errors/:id/comments/:id | Mettre à jour un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | DELETE | /errors/:id/comments/:id | Suppression d'un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | GET | /users/:id/error_comments | Récupérer toutes les réponses d'un utilisateur à des tickets d'erreur | Tableau d'objets JSON | Page profil |
-| PATCH | /errors/:id/comments/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
+| PATCH | /errors/:id/solution/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
 
 ### <u>Categories</u>
 
@@ -77,7 +77,7 @@ ___
 | GET | /articles/:id/categories | Récupérer toutes les catégories en fonction d'un article | Tableau d'objets JSON | Page article
 | GET | /articles/:id/errors | Récupérer toutes les catégories en fonction d'un ticket d'erreur | Tableau d'objets JSON | Page ticket d'erreur
 | POST | /categories | Créer une catégorie | String de confirmation | Dashboard Admin |
-| DELETE | /categories | Supprimer une catégorie | String de confirmation | Dashboard Admin |
+| DELETE | /categories/:id | Supprimer une catégorie | String de confirmation | Dashboard Admin |
 
 ___
 
