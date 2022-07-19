@@ -23,3 +23,7 @@ Nous commencerons par mettre en place l'architecture de l'API et la structure de
 ## Check Up
 
 Pour le bon déroulement de chaque partie, nous avons décidé tous ensemble de faire un point le matin et un point de le soir pour mettre en commun le tout et voir l'avancée du projet ensemble pas à pas.
+
+___
+
+[Accueil](../../README.md) | [Sommaire](../Sommaire.md)
