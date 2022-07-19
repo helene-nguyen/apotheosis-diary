@@ -56,7 +56,7 @@ Les fonctionnalités principales sont :
 - celui-ci aura un espace dédié afin de visualiser les récentes publications et les valider
 
 - il pourra au besoin, désactiver le profil d'un utilisateur ou d'attribuer un autre rôle aux utilisateurs
-
+ 
 ## Fonctionnalités sur des versions futures
 
 Le projet tel que nous l'avons pensé dispose normalement de quelques fonctionnalités supplémentaires mais que nous devons mettre de côté pour le respect du délai imposé.

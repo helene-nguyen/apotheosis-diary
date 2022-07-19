@@ -48,6 +48,12 @@ ___
 
 ## Contrôle pour l'accessibilité outils "A11y - Color Contrast Checker" 
 
+<u>Point important</u> :
+
+En parallèle au développement du projet, nous essayons également de mettre l'accent sur l'accessibilité du site pour prendre en compte la majorité des personnes.
+
+Pour cela, lors du design graphique, nous avons fait plusieurs contrôles sur le contraste des caractères pour la lisibilité et contraste des couleurs sur les composants.
+
 ![all1](../../Images/ally.gif)
 
 ___
