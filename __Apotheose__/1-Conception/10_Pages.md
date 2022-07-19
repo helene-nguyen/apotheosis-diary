@@ -30,4 +30,4 @@ Et 2 modales :
 
 ___
 
-[Page précédente](./09_Preparation_composant.md) | [Page suivante](A MENTIONNER) | [Accueil](../../README.md)
+[Page précédente](./09_Preparation_composant.md) | [Projection](./11_Projection.md) | [Accueil](../../README.md)
