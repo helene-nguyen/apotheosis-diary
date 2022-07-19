@@ -29,7 +29,7 @@ ___
 | POST | /articles | Soumettre l'article aux administrateurs| String de confirmation "en attente de validation" | Dashboard Auteur - Page de création d'article |
 | PATCH | /articles/:id | Mise à jour d'un article |String "article mis à jour"| Dashboard Auteur - Page de création d'article |
 | DELETE | /articles/:id | Suppression d'un article |  String "article supprimé"   | Page Dashboard auteur|
-| POST | /articles/:id/draft | Enregistrement d'un brouillon d'article |String "Enregistré en brouillon" | Dashboard Auteur - Page de création d'article |
+| POST | /articles/:id/drafts | Enregistrement d'un brouillon d'article |String "Enregistré en brouillon" | Dashboard Auteur - Page de création d'article |
 | GET | /categories/:id/articles | Récupérer tous les articles d'une catégorie | Tableau d'objets JSON | Page articles |
 | GET | /users/:id/articles | Récupérer tous les articles d'un utilisateur | Tableau d'objets JSON | Profil auteur |
 | GET | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
@@ -43,7 +43,7 @@ ___
 | POST | /errors | Soumettre le ticket d'erreur | String de confirmation "en attente de validation" |Création d'erreur|
 | PATCH | /errors/:id | Mise à jour d'un ticket d'erreur | String "ticket d'erreur mise à jour" | Dashboard utilisateur - Page de création d'erreur |
 | DELETE | /errors/:id | Suppression d'un ticket d'erreur | String "ticket d'erreur supprimé" | Dashboard utilisateur - Page de création d'erreur |
-| POST | /errors/:id/draft | Enregistrement d'un brouillon de ticket d'erreur | String "Enregistré en brouillon | Dashboard utilisateur - Page de création d'erreur |
+| POST | /errors/:id/drafts | Enregistrement d'un brouillon de ticket d'erreur | String "Enregistré en brouillon | Dashboard utilisateur - Page de création d'erreur |
 | GET | /categories/:id/errors | Récupérer tous les tickets d'erreur d'une catégorie | Tableau d'objets JSON | Page tickets d'erreur |
 | GET | /users/:id/errors | Récupérer tous les tickets d'erreur d'un utilisateur | Tableau d'objets JSON | Profil utilisateur
 | GET | /errors/last | Récupérer les derniers tickets d'erreur publiés | Tableau d'objets JSON | Home |
