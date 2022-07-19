@@ -75,7 +75,7 @@ ___
 |---|---|---|---|---|
 | GET | /categories | Récupérer toutes les catégories | Tableau d'objets JSON | Home/Page articles/Page tickets d'erreurs/Création d'articles /Création d'erreur/ Profil utilisateur |
 | GET | /articles/:id/categories | Récupérer toutes les catégories en fonction d'un article | Tableau d'objets JSON | Page article
-| GET | /articles/:id/errors | Récupérer toutes les catégories en fonction d'un ticket d'erreur | Tableau d'objets JSON | Page ticket d'erreur
+| GET | /errors/:id/categories | Récupérer toutes les catégories en fonction d'un ticket d'erreur | Tableau d'objets JSON | Page ticket d'erreur
 | POST | /categories | Créer une catégorie | String de confirmation | Dashboard Admin |
 | DELETE | /categories/:id | Supprimer une catégorie | String de confirmation | Dashboard Admin |
 
