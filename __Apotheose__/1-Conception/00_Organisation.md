@@ -75,6 +75,10 @@ Recherches / veilles
 
 Le site étant à destination d'un public tech, toutes les versions de Chrome, Edge, Firefox, Opera et Safari seront supportés.
 
+## Rôles
+
+Nous avons décidé d'avoir une structure horizontale, nous avons donc tous les rôles chacun pour chaque partie.
+
 ---
 
 ## Elaboration des Proto-personas
