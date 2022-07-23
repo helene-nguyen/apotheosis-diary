@@ -16,7 +16,8 @@ ___
 | POST | /signup | Inscription | String de confirmation | Page inscription|
 | GET | /signout | Déconnexion | String de confirmation | Modale de déconnexion |
 | PATCH | /users/:id | Mise à jour des informations de profil | String de confirmation | Page profil de l'utilisateur|
-| DELETE | /users/:id | Désactivation d'un utilisateur | Objet JSON | Dashboard admin |
+| DELETE | /users/:id | Suppression d'un compte utilisateur | Objet JSON | Dashboard |
+| PUT | /users/:id | Désactivation d'un utilisateur | Objet JSON | Dashboard admin |
 | GET | /users/:id/comments | Récupérer tous les commentaires d'un utilisateur |Tableau d'objets JSON | Dashboard admin |
 |POST|/refreshToken| Met à jour le token pour les autorisations| Objet JSON | Dashboard admin, utilisateur et auteur, page profil, page de creation de ticket d'erreur et d'article|
 
