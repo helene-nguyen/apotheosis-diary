@@ -30,7 +30,6 @@ ___
 | POST | /articles | Soumettre l'article aux administrateurs| String de confirmation "en attente de validation" | Dashboard Auteur - Page de création d'article |
 | PATCH | /articles/:id | Mise à jour d'un article |String "article mis à jour"| Dashboard Auteur - Page de création d'article |
 | DELETE | /articles/:id | Suppression d'un article |  String "article supprimé"   | Page Dashboard auteur|
-| POST | /articles/:id/drafts | Enregistrement d'un brouillon d'article |String "Enregistré en brouillon" | Dashboard Auteur - Page de création d'article |
 | GET | /categories/:id/articles | Récupérer tous les articles d'une catégorie | Tableau d'objets JSON | Page articles |
 | GET | /users/:id/articles | Récupérer tous les articles d'un utilisateur | Tableau d'objets JSON | Profil auteur |
 | GET | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
