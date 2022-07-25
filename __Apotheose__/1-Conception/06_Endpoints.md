@@ -33,6 +33,7 @@ ___
 | GET | /categories/:id/articles | Récupérer tous les articles d'une catégorie | Tableau d'objets JSON | Page articles |
 | GET | /users/:id/articles | Récupérer tous les articles d'un utilisateur | Tableau d'objets JSON | Profil auteur |
 | GET | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
+| GET | /articles/search | Récupérer les articles liés à la recherche | Tableau d'objets JSON | Toutes les pages |
 
 ### <u>Errors</u>
 
