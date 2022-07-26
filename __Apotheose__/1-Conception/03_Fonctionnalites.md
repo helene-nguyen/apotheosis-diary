@@ -72,6 +72,7 @@ Ci-dessous la liste des possibilité de foncitonnalités futures :
 - Partage sur les réseaux sociaux
 - Plateforme d'apprentissage (exercices)
 - Badge
+- Paramètre offset pour la récupération des articles
 
 ___
 

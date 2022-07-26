@@ -48,6 +48,7 @@ ___
 | GET | /users/:id/errors | Récupérer tous les tickets d'erreur d'un utilisateur | Tableau d'objets JSON | Profil utilisateur
 | GET | /errors/last | Récupérer les derniers tickets d'erreur publiés | Tableau d'objets JSON | Home |
 | GET | /errors/search | Récupérer les tickets d'erreur liés à la recherche | Tableau d'objets JSON | Toutes les pages |
+| PATCH | /errors/:id/solution/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
 
 ### <u>Article comments</u>
 
@@ -57,6 +58,7 @@ ___
 | POST | /articles/:id/comments | Publier un commentaire sur un article | String de confirmation | Page article |
 | PATCH | /articles/:id/comments/:id | Mettre à jour un commentaire sur un article | String de confirmation | Page article |
 | DELETE | /articles/:id/comments/:id | Suppression d'un commentaire sur un article | String de confirmation | Page article |
+| GET | /users/:id/article_comments | Récupérer toutes les réponses d'un utilisateur à des articles | Tableau d'objets JSON | Page profil |
 
 ### <u>Error comments</u>
 
@@ -67,7 +69,6 @@ ___
 | PATCH | /errors/:id/comments/:id | Mettre à jour un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | DELETE | /errors/:id/comments/:id | Suppression d'un commentaire sur un ticket d'erreur | String de confirmation | Page ticket d'erreur
 | GET | /users/:id/error_comments | Récupérer toutes les réponses d'un utilisateur à des tickets d'erreur | Tableau d'objets JSON | Page profil |
-| PATCH | /errors/:id/solution/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
 
 ### <u>Categories</u>
 
