@@ -32,8 +32,8 @@ ___
 | DELETE | /articles/:id | Suppression d'un article |  String "article supprimé"   | Page Dashboard auteur|
 | GET | /categories/:id/articles | Récupérer tous les articles d'une catégorie | Tableau d'objets JSON | Page articles |
 | GET | /users/:id/articles | Récupérer tous les articles d'un utilisateur | Tableau d'objets JSON | Profil auteur |
-| GET | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
-| GET | /articles/search | Récupérer les articles liés à la recherche | Tableau d'objets JSON | Toutes les pages |
+| POST | /articles/last | Récupérer les derniers articles publiés | Tableau d'objets JSON | Home / Page articles ? |
+| POST | /articles/search | Récupérer les articles liés à la recherche | Tableau d'objets JSON | Toutes les pages |
 
 ### <u>Errors</u>
 
@@ -46,8 +46,8 @@ ___
 | DELETE | /errors/:id | Suppression d'un ticket d'erreur | String "ticket d'erreur supprimé" | Dashboard utilisateur - Page de création d'erreur |
 | GET | /categories/:id/errors | Récupérer tous les tickets d'erreur d'une catégorie | Tableau d'objets JSON | Page tickets d'erreur |
 | GET | /users/:id/errors | Récupérer tous les tickets d'erreur d'un utilisateur | Tableau d'objets JSON | Profil utilisateur
-| GET | /errors/last | Récupérer les derniers tickets d'erreur publiés | Tableau d'objets JSON | Home |
-| GET | /errors/search | Récupérer les tickets d'erreur liés à la recherche | Tableau d'objets JSON | Toutes les pages |
+| POST | /errors/last | Récupérer les derniers tickets d'erreur publiés | Tableau d'objets JSON | Home |
+| POST | /errors/search | Récupérer les tickets d'erreur liés à la recherche | Tableau d'objets JSON | Toutes les pages |
 | PATCH | /errors/:id/solution/:id | Valider un commentaire comme solution au ticket | String de confirmation | Page ticket d'erreur (auteur de l'erreur seulement) |
 
 ### <u>Article comments</u>

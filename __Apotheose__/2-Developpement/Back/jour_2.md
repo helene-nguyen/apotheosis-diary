@@ -11,5 +11,3 @@ Objectifs :
 - Remplir avec des données fake la base de données
 - Mise en place des routes
 
-Bilan :
-
