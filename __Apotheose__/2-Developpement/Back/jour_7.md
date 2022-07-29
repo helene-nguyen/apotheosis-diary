@@ -4,6 +4,8 @@ Date : 27/07/2022
 
 ___
 
-- finir les grosses requêtes
+- Finir les grosses requêtes
 - Filtrage des bad word
-- 
+
+
+- Objectif user panel

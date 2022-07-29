@@ -73,6 +73,8 @@ Ci-dessous la liste des possibilité de foncitonnalités futures :
 - Plateforme d'apprentissage (exercices)
 - Badge
 - Paramètre offset pour la récupération des articles
+- Gestion de l'avatar
+- Gestion des mots de passe oubliés
 
 ___
 
