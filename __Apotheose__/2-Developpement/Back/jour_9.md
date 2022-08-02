@@ -8,3 +8,5 @@ ___
 - Documentation Swagger
 - (filtrage bad words)
 - Finaliser requête user panel
+
+- 
